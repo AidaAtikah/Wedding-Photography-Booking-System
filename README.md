@@ -79,6 +79,11 @@ ii) Lack of real payment integration where the system is not fully
 functional to process a real-time transaction. 
 iii) Compatibility issues where the system needs to be compatible with various browsers, operating systems, and devices. 
 
+# Preview Image
+A screen shot of a register
+
+Description automatically generated with low confidence 
+
 # Copyrights 
 
 Copyrights @ 20/01/2023 by Wan Nur Aida Atikah. All right reserved for Swakarya: Web-Based Wedding Photography System for Swakarya Studio. 
