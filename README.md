@@ -79,6 +79,16 @@ ii) Lack of real payment integration where the system is not fully
 functional to process a real-time transaction. 
 iii) Compatibility issues where the system needs to be compatible with various browsers, operating systems, and devices. 
 
+# Preview Image 
+1. User
+![Screenshot (383)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/11561597-96d6-406f-a0cd-e2fd1d2547a2)
+![Screenshot (386)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/624b9ed4-0846-4c22-ad19-468866122a82)
+![Screenshot (387)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/c941ebc7-2baa-448d-912b-3f9e8a313eb2)
+![Screenshot (388)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/01f71154-1777-4d2f-b683-d0270766e3e8)
+![Screenshot (389)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/fe9f08fc-0013-4266-872f-8b3cb0cdb636)
+
+2. Admin
+![Screenshot (390)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/132d05e9-3827-4332-befd-f7d3d8ed1f84)
 
 # Copyrights 
 
