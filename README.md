@@ -81,7 +81,6 @@ iii) Compatibility issues where the system needs to be compatible with various b
 
 # Preview Image 
 1. User
-![Screenshot (383)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/11561597-96d6-406f-a0cd-e2fd1d2547a2)
 ![Screenshot (386)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/624b9ed4-0846-4c22-ad19-468866122a82)
 ![Screenshot (387)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/c941ebc7-2baa-448d-912b-3f9e8a313eb2)
 ![Screenshot (388)](https://github.com/AidaAtikah/Wedding-Photography-Booking-System/assets/142037347/01f71154-1777-4d2f-b683-d0270766e3e8)
